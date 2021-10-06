@@ -1,0 +1,3 @@
+/Users/eliaschnitker/CLionProjects/ProgramacionOrientadaRendimiento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/eliaschnitker/CLionProjects/ProgramacionOrientadaRendimiento/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eliaschnitker/CLionProjects/ProgramacionOrientadaRendimiento/cmake-build-debug/CMakeFiles/ProgramacionOrientadaRendimiento.dir
